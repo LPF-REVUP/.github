@@ -1,4 +1,4 @@
-<a href="https://revup.jp/2022"><img height="156" alt="REV UP logo" src="https://github.com/LPF-REVUP/.github/blob/main/revup-logo.svg?sanitize=true"></a>
+<a href="https://revup.jp/"><img height="156" alt="REV UP logo" src="https://github.com/LPF-REVUP/.github/blob/main/revup-logo.svg?sanitize=true"></a>
 
 > [REV UP 2022](https://revup.jp/) is the technical conference held in Japan, mainly dealing on LINE Developer Community.
 
